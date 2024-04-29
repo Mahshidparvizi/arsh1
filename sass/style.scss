@@ -1,0 +1,88 @@
+#header{
+    color: #009ed5;
+}
+.header{
+    background-color: #023b6d;
+}
+.section-bar{
+    background-color: #37517E;
+   
+
+}
+.section-bar a{
+    color: white;
+}
+#menu{
+    border-radius: 25px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #44a3d5;
+    background-color: #37517E;
+    padding: 10px;
+    width: fit-content;
+   
+}
+
+.nav-link active{
+    color: #44a3d5;
+}
+
+#btn-start{
+    border-radius: 25px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #44a3d5;
+    background-color: #44a3d5;
+}
+
+#btn-watch{
+    border-radius: 25px;
+    border-width: 3px;
+    border-style: none;
+    background-color: #37517E;
+}
+.fluid1{
+    background-color: #37517E;
+}
+
+.fluid2{
+    background-color: #f3f5fa;
+    margin: 20px;
+}
+
+.col p{
+    margin-top: 50px;
+    text-align: justify;
+}
+
+#btn-learn{
+    border-style: solid;
+    border-color: #44a3d5;
+    color: #44a3d5;
+    background-color: #ffffff;
+    display: flex;
+    align-items: flex-start;
+}
+
+.flex{
+    float: left;
+}
+.img-fluid{
+    width: 50%;
+    height: 50%;
+}
+
+.service{
+    background-color: #f3f5fa;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.navbar-nav{
+    float: left;
+}
